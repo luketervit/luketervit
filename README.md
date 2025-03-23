@@ -1,16 +1,98 @@
-<h1 align="center">Hi 👋, I'm Luke</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Luke</h1>
 <h3 align="center">Software engineer skilled in Python, Java and SQL. Currently pursuing a BSc in Computer Science at the University of Edinburgh (2022-2026).</h3>
 
-- 👨‍💻 All of my projects are available at [https://luketervit.com/](https://luketervit.com/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luketervit&show_icons=true&theme=react" alt="Luke's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luketervit&theme=react" alt="Luke's GitHub Streak" />
+</div>
 
-- 📫 How to reach me **luketervit@gmail.com**
+## 🔭 Current Work
 
-<h3 align="left">Connect with me:</h3>
+- 👨‍🏫 Teaching Assistant at the University of Edinburgh
+- 🧪 Creating JUnit tests and custom scripts to automate student assessment
+- 📊 Working with large datasets for statistical analysis and visualization
+- 📚 Developing and maintaining course materials with LaTeX in Overleaf
+
+## 🛠️ Recent Projects
+
+<table>
+  <tr>
+    <td>
+      <strong>RESTful API Development</strong><br/>
+      Built with Java Spring Boot and containerized with Docker. Features comprehensive testing with Postman and CI/CD integration via GitHub workflows.
+    </td>
+    <td>
+      <strong>Data Analysis Project</strong><br/>
+      Analyzed ~7 million data points using Python, Pandas, and NumPy. Created visualizations with Matplotlib in Jupyter Notebook and performed detailed hypothesis testing.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>SQL Database Design</strong><br/>
+      Implemented relational databases for mathematical and statistical analysis of company cash flow data.
+    </td>
+    <td>
+      <strong>UML Architecture Design</strong><br/>
+      Created comprehensive UML diagrams for course materials and software projects to improve code structure and maintainability.
+    </td>
+  </tr>
+</table>
+
+## 🔗 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luke-tervit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luke-tervit/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luke-tervit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luke-tervit" height="30" width="40" /></a>
+<a href="https://luketervit.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="personal-website" height="30" width="40" /></a>
+<a href="mailto:luketervit@gmail.com"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" alt="email" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 💻 Languages and Tools
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luketervit&show_icons=true&locale=en" alt="luketervit" /></p>
+## 🏆 Achievements
+- 🚀 Pitched a startup proposal to 50+ students, recognized for its ambition and creativity
+- 💯 On track to achieve a First Class degree in Computer Science
+- 👨‍💻 Co-authored Java code repositories with over 1,000 lines of code
+
+<details>
+  <summary>📈 GitHub Stats Details</summary>
+  <br>
+  <table>
+    <tr>
+      <td>⭐ Total Stars Earned:</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>🔄 Total Commits (2025):</td>
+      <td>54</td>
+    </tr>
+    <tr>
+      <td>🔄 Total PRs:</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>🔄 Total Issues:</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>🔄 Contributed to (last year):</td>
+      <td>0</td>
+    </tr>
+  </table>
+</details>
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=luketervit&color=blue)
