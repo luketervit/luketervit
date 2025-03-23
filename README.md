@@ -5,7 +5,7 @@
 
 - 👨‍🏫 Teaching Assistant at the University of Edinburgh
 - 🧪 Creating JUnit tests and custom scripts to automate student assessment
-- 📊 Working with large datasets for statistical analysis and visualization
+- 📊 Working with large datasets for statistical analysis and visualisation
 - 📚 Developing and maintaining personal projects documented on github and my website!
 
 ## 🛠️ Recent Projects
@@ -14,11 +14,11 @@
   <tr>
     <td>
       <strong>RESTful API Development</strong><br/>
-      Built with Java Spring Boot and containerized with Docker. Features comprehensive testing with Postman and CI/CD integration via GitHub workflows.
+      Built with Java Spring Boot and containerised with Docker. Features comprehensive testing with Postman and CI/CD integration via GitHub workflows.
     </td>
     <td>
       <strong>Data Analysis Project</strong><br/>
-      Analyzed ~7 million data points using Python, Pandas, and NumPy. Created visualisations with Matplotlib in Jupyter Notebook and performed detailed hypothesis testing.
+      Analysed ~7 million data points using Python, Pandas, and NumPy. Created visualisations with Matplotlib in Jupyter Notebook and performed detailed hypothesis testing.
     </td>
   </tr>
   <tr>
