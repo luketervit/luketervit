@@ -1,17 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Luke</h1>
 <h3 align="center">Software engineer skilled in Python, Java and SQL. Currently pursuing a BSc in Computer Science at the University of Edinburgh (2022-2026).</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luketervit&show_icons=true&theme=react" alt="Luke's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luketervit&theme=react" alt="Luke's GitHub Streak" />
-</div>
-
 ## 🔭 Current Work
 
 - 👨‍🏫 Teaching Assistant at the University of Edinburgh
 - 🧪 Creating JUnit tests and custom scripts to automate student assessment
 - 📊 Working with large datasets for statistical analysis and visualization
-- 📚 Developing and maintaining course materials with LaTeX in Overleaf
+- 📚 Developing and maintaining personal projects documented on github and my website!
 
 ## 🛠️ Recent Projects
 
@@ -23,13 +18,13 @@
     </td>
     <td>
       <strong>Data Analysis Project</strong><br/>
-      Analyzed ~7 million data points using Python, Pandas, and NumPy. Created visualizations with Matplotlib in Jupyter Notebook and performed detailed hypothesis testing.
+      Analyzed ~7 million data points using Python, Pandas, and NumPy. Created visualisations with Matplotlib in Jupyter Notebook and performed detailed hypothesis testing.
     </td>
   </tr>
   <tr>
     <td>
-      <strong>SQL Database Design</strong><br/>
-      Implemented relational databases for mathematical and statistical analysis of company cash flow data.
+      <strong>Simplifi- AI Crypto Assistant</strong><br/>
+      An AI powered crypto assistant developed during a hackathon, leveraging AI APIs to provide analysis and portfolio guidance
     </td>
     <td>
       <strong>UML Architecture Design</strong><br/>
@@ -62,9 +57,8 @@
 </p>
 
 ## 🏆 Achievements
-- 🚀 Pitched a startup proposal to 50+ students, recognized for its ambition and creativity
 - 💯 On track to achieve a First Class degree in Computer Science
-- 👨‍💻 Co-authored Java code repositories with over 1,000 lines of code
+- 👨‍💻 Co-authored Java code repositories with over 2,000 lines of code responsible for the marking of ~200 students work
 
 <details>
   <summary>📈 GitHub Stats Details</summary>
