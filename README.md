@@ -4,7 +4,7 @@
 ## 🔭 Current Work
 
 - 👨‍🏫 Teaching Assistant at the University of Edinburgh
-- 🧪 Creating JUnit tests and custom scripts to automate student assessment
+- 🧪 Developing coursework, creating JUnit tests and custom scripts to automate student assessment
 - 📊 Working with large datasets for statistical analysis and visualisation
 - 📚 Developing and maintaining personal projects documented on github and my website!
 
@@ -58,7 +58,7 @@
 
 ## 🏆 Achievements
 - 💯 On track to achieve a First Class degree in Computer Science
-- 👨‍💻 Co-authored Java code repositories with over 2,000 lines of code responsible for the marking of ~200 students work
+- 👨‍💻 Co-authored Java code repositories with over 2,000 lines of code creating a framework for students to impelement their courseworks
 
 <details>
   <summary>📈 GitHub Stats Details</summary>
