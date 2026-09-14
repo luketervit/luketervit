@@ -1,19 +1,3 @@
-<!--
-THESIS: A working engineer's profile, led by current consulting and concrete contributions.
-OWN-WORLD: Adapt the personal website's ink, paper, pale blue, yellow and DM Sans; serif name signature.
-STORY: Understand Luke's practice, inspect shipped work, explore public code, make contact.
-FIRST VIEWPORT: A custom typographic banner with a convergence diagram; native text introduction and direct contact links immediately below.
-FORM: GitHub-native single-column portfolio, with responsive SVG artwork. Surface seed 56c0659e; adapted to the existing website identity and GitHub constraints.
-FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, DESIGN.md, and every shipping raster carrying its provenance
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/header-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/header-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Luke Tervit. I turn messy workflows into working software. Independent engineer, Tervit Consulting.">
-</picture>
-
 I run **Tervit Consulting**, an independent software and AI engineering practice based in Edinburgh. I work directly with founders and teams to automate manual work, connect their systems, and build useful AI features into their products.
 
 I take projects from workflow discovery and product design through to implementation. Alongside automation and integrations, I’m working on fraud and identity review interfaces and applied ML research and evaluation.
