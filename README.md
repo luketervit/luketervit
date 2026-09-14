@@ -1,20 +1,22 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Luke</h1>
-<h3 align="center">Product-focused software engineer skilled in Python, JavaScript, SQL, and AWS. Currently pursuing a BSc in Computer Science at the University of Edinburgh (2022-2026).</h3>
+<h3 align="center">Product-focused software engineer and co-founder of The 20 Hour Company. Building AI products, integrations, and tools that ship.</h3>
 
-## 🔭 Current Work
+## 🔭 About Me
 
-- 💼 **AI Engineering Contractor** - Building conversational AI features for cashflow analysis and scenario planning tools
-- 🎓 4th Year Computer Science Student at the University of Edinburgh (Graduating May 2026, on track for First Class Honours)
-- 🚀 Building integrations, prototyping analytics tools, and delivering solutions that drive adoption and business value
-- 📚 Developing and maintaining personal projects documented on GitHub and my website
+- 💼 **AI Engineering Consultant** — Building AI features and internal tools for startups and established businesses
+- 🚀 **Co-founder of The 20 Hour Company** — Built, launched, and sold a startup for **$20k within 20 hours**
+- 🛠️ Previously the **first intern at Granola AI**, shipping product features and integrations
+- 🎓 Studied Computer Science at the **University of Edinburgh (2022–2026)**
+- 🏃 Competitive runner in the 800m and relays
 
 ## 💼 Experience Highlights
 
-- **Product Engineering Intern at Granola AI** (June-Sept 2025) - Delivered high-priority Attio and Zapier integrations at the UK's fastest growing startup, built REST APIs with AWS Lambdas and PostgreSQL
-- **Teaching Assistant at University of Edinburgh** (Jan-April 2025) - Co-authored 4,000+ lines of Java code, created automated assessment tools
-- **AI Engineering Contractor** (Current) - Developing conversational AI features and analytics dashboards for business applications
+- **AI Engineering Consultant** (2025–Present) — Building conversational AI features, analytics dashboards, and internal tools for business applications
+- **Co-founder — The 20 Hour Company** (August 2025) — Co-founded, built, launched, and sold a company during the Project Lovable hackathon in Stockholm. Acquired by **REVEL for $20k within 20 hours**. [The story](https://www.linkedin.com/posts/leo-camacho_building-launching-and-selling-a-company-activity-7363173148986408960-0hMF)
+- **Product Engineering Intern at Granola AI** (June–September 2025) — Delivered the Attio and Zapier integrations, two of the most-requested features. Conceived and built the first version of Enterprise Visibility, and developed REST APIs with AWS Lambda and PostgreSQL
+- **Teaching Assistant at the University of Edinburgh** (January–April 2025) — Co-authored 4,000+ lines of Java code and built automated testing and assessment tools
 
-## 🛠️ Recent Projects
+## 🛠️ Selected Projects
 
 <table>
   <tr>
@@ -64,38 +66,10 @@
 </p>
 
 ## 🏆 Achievements
-- 💼 Delivered top 2 most requested features at fastest growing UK startup
-- 🚀 Co-founded and sold a hackathon startup within 20 hours for $20k (5% acceptance rate from 400 applicants)
-- 💯 On track to achieve a First Class degree in Computer Science
+- 💼 Delivered two of Granola AI's most-requested integrations: Attio and Zapier
+- 🚀 Co-founded The 20 Hour Company and exited for **$20k within 20 hours**
 - 👨‍💻 Co-authored Java code repositories with over 4,000 lines of code creating frameworks for student coursework
 - 🏃 Competitive Runner at the highest Scottish level in 800m and relays
-
-<details>
-  <summary>📈 GitHub Stats Details</summary>
-  <br>
-  <table>
-    <tr>
-      <td>⭐ Total Stars Earned:</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>🔄 Total Commits (2025):</td>
-      <td>54</td>
-    </tr>
-    <tr>
-      <td>🔄 Total PRs:</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>🔄 Total Issues:</td>
-      <td>0</td>
-    </tr>
-    <tr>
-      <td>🔄 Contributed to (last year):</td>
-      <td>0</td>
-    </tr>
-  </table>
-</details>
 
 <br>
 
