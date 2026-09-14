@@ -1,76 +1,66 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Luke</h1>
-<h3 align="center">Product-focused software engineer and co-founder of The 20 Hour Company. Building AI products, integrations, and tools that ship.</h3>
+<!--
+THESIS: A working engineer's profile, led by current consulting and concrete contributions.
+OWN-WORLD: Adapt the personal website's ink, paper, pale blue, yellow and DM Sans; serif name signature.
+STORY: Understand Luke's practice, inspect shipped work, explore public code, make contact.
+FIRST VIEWPORT: A custom typographic banner with a convergence diagram; native text introduction and direct contact links immediately below.
+FORM: GitHub-native single-column portfolio, with responsive SVG artwork. Surface seed 56c0659e; adapted to the existing website identity and GitHub constraints.
+FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, DESIGN.md, and every shipping raster carrying its provenance
+-->
 
-## 🔭 About Me
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/header-mobile-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/header-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Luke Tervit. I turn messy workflows into working software. Independent engineer, Tervit Consulting.">
+</picture>
 
-- 💼 **AI Engineering Consultant** — Building AI features and internal tools for startups and established businesses
-- 🚀 **Co-founder of The 20 Hour Company** — Built, launched, and sold a startup for **$20k within 20 hours**
-- 🛠️ Previously the **first intern at Granola AI**, shipping product features and integrations
-- 🎓 Studied Computer Science at the **University of Edinburgh (2022–2026)**
-- 🏃 Competitive runner in the 800m and relays
+I run **Tervit Consulting**, an independent software and AI engineering practice based in Edinburgh. I work directly with founders and teams to automate manual work, connect their systems, and build useful AI features into their products.
 
-## 💼 Experience Highlights
+I take projects from workflow discovery and product design through to implementation. Alongside automation and integrations, I’m working on fraud and identity review interfaces and applied ML research and evaluation.
 
-- **AI Engineering Consultant** (2025–Present) — Building conversational AI features, analytics dashboards, and internal tools for business applications
-- **Co-founder — The 20 Hour Company** (August 2025) — Co-founded, built, launched, and sold a company during the Project Lovable hackathon in Stockholm. Acquired by **REVEL for $20k within 20 hours**. [The story](https://www.linkedin.com/posts/leo-camacho_building-launching-and-selling-a-company-activity-7363173148986408960-0hMF)
-- **Product Engineering Intern at Granola AI** (June–September 2025) — Delivered the Attio and Zapier integrations, two of the most-requested features. Conceived and built the first version of Enterprise Visibility, and developed REST APIs with AWS Lambda and PostgreSQL
-- **Teaching Assistant at the University of Edinburgh** (January–April 2025) — Co-authored 4,000+ lines of Java code and built automated testing and assessment tools
+**[Website](https://luketervit.com)** · **[Email me](mailto:luketervit@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/luke-tervit/)**
 
-## 🛠️ Selected Projects
+## Selected work
 
-<table>
-  <tr>
-    <td>
-      <strong>RESTful API Development</strong><br/>
-      Built with Java Spring Boot and containerised with Docker. Features comprehensive testing with Postman and CI/CD integration via GitHub workflows.
-    </td>
-    <td>
-      <strong>Data Analysis Project</strong><br/>
-      Analysed ~7 million data points using Python, Pandas, and NumPy. Created visualisations with Matplotlib in Jupyter Notebook and performed detailed hypothesis testing.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Simplifi- AI Crypto Assistant</strong><br/>
-      An AI powered crypto assistant developed during a hackathon, leveraging AI APIs to provide analysis and portfolio guidance
-    </td>
-    <td>
-      <strong>AWS & PostgreSQL Integrations</strong><br/>
-      Built and maintained REST APIs with AWS Lambdas and PostgreSQL databases to support cross-platform integrations and analytics features.
-    </td>
-  </tr>
-</table>
+**[Granola](https://granola.ai) · Product engineering**<br>
+As Granola's first Product Engineering Intern, I delivered the **Attio and Zapier integrations** and conceived and built the first version of **Enterprise Visibility**. Work that connected meeting notes to customers' existing tools and helped organisations understand how Granola was being used.
 
-## 🔗 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/luke-tervit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luke-tervit" height="30" width="40" /></a>
-<a href="https://luketervit.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="personal-website" height="30" width="40" /></a>
-<a href="mailto:luketervit@gmail.com"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" alt="email" height="30" width="40" /></a>
-</p>
+[Attio announcement](https://www.linkedin.com/posts/meetgranola_were-huge-fans-of-attio-at-granola-so-this-activity-7369401552249217027-M7lR) · [Zapier announcement](https://www.linkedin.com/posts/meetgranola_what-if-you-could-automatically-add-to-do-activity-7355631564807938048-o-cp) · [Enterprise Visibility](https://www.granola.ai/blog/series-c)
 
-## 💻 Languages and Tools
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-</p>
+**[ElectraDx](https://www.electradx.com/) · AI engineering**<br>
+Building an internal pipeline for research data processing, automation and AI-assisted workflows, bringing the data and tools behind the work together.
 
-## 🏆 Achievements
-- 💼 Delivered two of Granola AI's most-requested integrations: Attio and Zapier
-- 🚀 Co-founded The 20 Hour Company and exited for **$20k within 20 hours**
-- 👨‍💻 Co-authored Java code repositories with over 4,000 lines of code creating frameworks for student coursework
-- 🏃 Competitive Runner at the highest Scottish level in 800m and relays
+**[Ahoy](https://www.ahoy.ai/) · Workflow automation**<br>
+Built a LinkedIn prospecting system covering research, enrichment, outreach sequencing and engagement tracking for the go-to-market team.
 
-<br>
+**[Cullen Property](https://www.cullenproperty.com/) · Discovery & systems design**<br>
+Mapped workflows across five departments and a fragmented spreadsheet estate, then developed an automation roadmap grounded in how the business operates.
 
-![Profile Views](https://komarev.com/ghpvc/?username=luketervit&color=blue)
+---
+
+### A company, built and sold in 20 hours.
+
+I co-founded **The 20 Hour Company** at the Project Lovable hackathon in Stockholm. We built, launched and sold the company to **REVEL for $20k**, all within 20 hours.
+
+[Watch the story](https://www.linkedin.com/posts/antonosika_four-guys-built-and-sold-a-company-with-lovable-ugcPost-7370470948405334017-Dkjz)
+
+## Code you can explore
+
+**[Atharias — social simulation API](https://github.com/luketervit/social-sim-api)**<br>
+A full-stack application for running multi-agent social simulations with psychographic personas. Audience uploads, simulation runs and an API, built with Next.js, Supabase and LLMs.
+
+**[Simulating Political Discourse on X](https://github.com/luketervit/political-discourse-dissertation)**<br>
+My Computer Science dissertation at Edinburgh: combining LLMs with agent-based modelling to generate and evaluate discussion threads. Includes the manuscript, simulation code, ablations and evaluation artefacts.
+
+<details>
+<summary><strong>Tools I work with</strong></summary>
+
+Python, TypeScript / JavaScript, SQL and Java. React / Next.js and Svelte. PostgreSQL, Supabase, AWS and Docker. LLM integrations, data pipelines, model evaluation and API development.
+
+</details>
+
+---
+
+Away from the keyboard, I run the **800m and relays**.
+
+**Have a workflow that needs fixing, or a product that needs building? [Let's talk.](mailto:luketervit@gmail.com)**
